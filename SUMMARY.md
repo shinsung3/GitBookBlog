@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [First Day](README.md)
+
+## Study
+
+* [Untitled](study/untitled.md)
 
